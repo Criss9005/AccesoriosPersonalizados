@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AccesoriosPersonalizados/static/css/main.5ada2288.css",
+    "main.js": "/AccesoriosPersonalizados/static/js/main.1f02e8e9.js",
+    "index.html": "/AccesoriosPersonalizados/index.html",
+    "main.5ada2288.css.map": "/AccesoriosPersonalizados/static/css/main.5ada2288.css.map",
+    "main.1f02e8e9.js.map": "/AccesoriosPersonalizados/static/js/main.1f02e8e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ada2288.css",
+    "static/js/main.1f02e8e9.js"
+  ]
+}
